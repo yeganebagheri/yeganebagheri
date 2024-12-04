@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Yegane Bagheri 👋
 
-<!--
-**yeganebagheri/yeganebagheri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **About Me**  
+- 🎓 Master’s student in Data Science and Engineering at Polytechnic University of Turin.  
+- 🌟 Passionate about Machine Learning, AI, and Data Analytics.  
+- 🔧 Skilled in Python, SQL, TensorFlow, PyTorch, and more.
 
-Here are some ideas to get you started:
+📫 **Get in Touch**  
+- [LinkedIn](https://linkedin.com/in/yegane-bagheri/)  
+- [Email](mailto:yegane.bagheri@studenti.polito.it)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Skills & Expertise
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PyTorch](https://img.shields.io/badge/Technology-Color?style=for-the-badge&logo=LogoName&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Technology-Color?style=for-the-badge&logo=LogoName&logoColor=white)
+![MongoDB](https://img.shields.io/badge/Technology-Color?style=for-the-badge&logo=LogoName&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Technology-Color?style=for-the-badge&logo=LogoName&logoColor=white)
+![XGBoost Regression](https://img.shields.io/badge/Technology-Color?style=for-the-badge&logo=LogoName&logoColor=white)
+![PySpark](https://img.shields.io/badge/Technology-Color?style=for-the-badge&logo=LogoName&logoColor=white)
+
