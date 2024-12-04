@@ -11,7 +11,7 @@
 
 💡 Skills & Expertise
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=gray)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/Technology-Color?style=for-the-badge&logo=LogoName&logoColor=white)
@@ -19,5 +19,5 @@
 ![MongoDB](https://img.shields.io/badge/Technology-Color?style=for-the-badge&logo=LogoName&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Technology-Color?style=for-the-badge&logo=LogoName&logoColor=white)
 ![XGBoost Regression](https://img.shields.io/badge/Technology-Color?style=for-the-badge&logo=LogoName&logoColor=white)
-![PySpark](https://img.shields.io/badge/Technology-Color?style=for-the-badge&logo=PySpark&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-3776AB?style=for-the-badge&logo=PySpark&logoColor=white)
 
